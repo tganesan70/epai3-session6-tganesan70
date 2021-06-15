@@ -40,7 +40,7 @@
      (ix) Straight flush - This hand is a combination of the straight and flush. 
      For example, you have a straight flush if you get 3,4,5,6,7 ALL of the same suit.
      
-     (x) Royal flush - This is the biggest, and rarest, hand in all of poker. i
+     (x) Royal flush - This is the biggest, and rarest, hand in all of poker. 
      The royal flush is when you get 10, J, Q, K, Ace - ALL of the same suit
      
 # Implementaion Details:
